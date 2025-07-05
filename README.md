@@ -17,5 +17,5 @@
 - The Legend of Zelda
 - PokePoke
 - Besiege
+- Splatoon3
 - Monster Hunter
-
